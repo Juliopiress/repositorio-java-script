@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+header
+{
+    padding: 60px;
+    background: linear-gradient(200deg,#8e7e70 8.16%, #cebea6 120%);
+    display: flex;
+    text-align: center;
+    justify-content: space-between;   
+}
+
+header ul 
+{
+    display: flex;
+    align-items: end;
+}
+
+header ul li 
+{
+    list-style: none;
+    margin-right: 15px;
+   
+}
+
+.sessao1
+{
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-image: url(img/website-background-sdki780prxb1nfs5.jpg);
+background-size: cover;
+display: flex;
+padding: 300px;
+background-color: #171b34;
+text-align: justify;
+align-items: center;
+
+}
+
+.sessao2
+{
+    background-color: #e2b69d;
+    display: flex;
+    align-items: ;
+}
